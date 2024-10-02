@@ -4,14 +4,14 @@ ______ MTR服务器专用材质包
 
 进入服务器联系方式：
 
-·腐竹WangErMaZi
+*腐竹WangErMaZi
 
 ```
 QQ 593199538
 邮箱 wangermazibilibili@126.com
 ```
 
-·管理Timmy1928
+*管理Timmy1928
 
 ```
 邮箱 zheng14514@163.com
