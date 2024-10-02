@@ -12,7 +12,8 @@ ______ MTR服务器专用材质包
     QQ 593199538
     邮箱 wangermazibilibili@126.com
 
-管理Timmy1928
+管理[Timmy1928](https://space.bilibili.com/519445549)<img width="32" alt="b8373be190c1a27d9804b0e64acc83dc3cf138ea jpg_240w_240h_1c_1s_!web-avatar-space-header (64x64)" src="https://github.com/user-attachments/assets/49f72542-67b0-4368-861f-ade97c1f0935">
+
 
     邮箱 zheng14514@163.com
 
