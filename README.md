@@ -7,7 +7,8 @@ ______ MTR服务器专用材质包
 
 进入服务器联系方式：
 -
-腐竹WangErMaZi
+腐竹WangErMaZi![image](https://github.com/user-attachments/assets/97c8b699-e723-4510-98b8-daae3c567c17)
+
 
     QQ 593199538
     邮箱 wangermazibilibili@126.com
